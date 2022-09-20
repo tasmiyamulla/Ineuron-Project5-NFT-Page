@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Nft Page]()
+### 🔗*Live Link* -: [Nft Page](https://tasmiya-proj5.netlify.app)
 
 ![Nft Page](./5.png)
 
